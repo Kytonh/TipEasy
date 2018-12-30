@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+<img src='https://github.com/Kytonh/TipEasy/blob/master/TipEasyDemo.gif' title='Video Walkthrough' width='' alt='VTipEasy Demo' />
 ## Notes
 
 Describe any challenges encountered while building the app.
